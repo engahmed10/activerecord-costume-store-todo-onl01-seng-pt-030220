@@ -11,8 +11,6 @@ def change
      t.boolean :still_in_business
      t.datetime :opening_time
      t.datetime :closing_time
-
-
    end
 end
 
