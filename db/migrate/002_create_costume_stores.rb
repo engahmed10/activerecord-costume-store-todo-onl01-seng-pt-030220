@@ -10,7 +10,7 @@ def change
      t.string :num_of_employees
      t.boolean :still_in_business
      t.datetime :opening_time
-     
+
 
    end
 end
