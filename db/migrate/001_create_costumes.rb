@@ -9,7 +9,7 @@
 # value types according to the spec
 
 
-class Costume < ActiveRecord::Migration[5.2]
+class Costumes < ActiveRecord::Migration[5.2]
      def change
         
 
